@@ -1,4 +1,9 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=AudricSerador&theme=shades-of-purple&border_radius=8)](https://git.io/streak-stats)
+
 ### Hi there 👋
+### I'm Audric, a current student at the University of Illinois at Urbana-Champaign studying Computer Science under the Grainger College of Engineering 💻
+### In my free time, I enjoy making cool stuff, so check out my repositories below ⬇️
+
 
 <!--
 **AudricSerador/AudricSerador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
