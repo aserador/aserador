@@ -8,7 +8,7 @@ I'm always open to new opportunities to grow as a developer and apply my skills,
 
 #### Here are a few things you should know about me:
 
-- 🔭 I’m currently working on **[UIUC Dining Buddy](https://github.com/collab-community/journey-book/), a web app designed to improve the student dining hall experience.**
+- 🔭 I’m currently working on **[UIUC Dining Buddy](https://dining-buddy.vercel.app/), a web app designed to improve the student dining hall experience.**
 - 🌱 I’m currently learning **AWS Services & Machine Learning**.
 - 👯 I’m open to collaborate with **other Developers**.
 - 📫 How to reach me: **Check out my socials below**
