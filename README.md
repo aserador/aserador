@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AudricSerador&theme=shades-of-purple&border_radius=8)](https://git.io/streak-stats)
 
-Welcome to my profile! I'm a student at the University of Illinois at Urbana-Champaign studying Computer Science under the Grainger College of Engineering. As a developer, I love exploring new technologies and building cool stuff with them. I've delved into the realms of game design, full stack web development, data visualizations, natural language processing, and have recently piqued an interest in AI research and application development.
+Welcome to my profile! I'm a student at the University of Illinois at Urbana-Champaign studying Computer Science under the Grainger College of Engineering. My main area of expertise is in full-stack application development, but as a developer, I love exploring new technologies and building cool stuff with them. I've also delved into the realms of game design, data visualizations, natural language processing, and have recently piqued an interest in the intersection of AI research and application development. 
 
 I'm always open to new opportunities to grow as a developer and apply my skills, so feel free to contact me through my socials below! ⬇️
 
@@ -55,7 +55,6 @@ I'm always open to new opportunities to grow as a developer and apply my skills,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 &nbsp; &nbsp; &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
