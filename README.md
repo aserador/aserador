@@ -1,6 +1,6 @@
 # Hi! My name is Audric 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AudricSerador&theme=shades-of-purple&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aserador&theme=shades-of-purple)](https://git.io/streak-stats)
 
 Welcome to my profile! I'm a student at the University of Illinois at Urbana-Champaign studying Computer Science under the Grainger College of Engineering. My main area of expertise is in full-stack application development, but as a developer, I love exploring new technologies and building cool stuff with them. I've also delved into the realms of game design, data visualizations, natural language processing, and have recently piqued an interest in the intersection of AI research and application development. 
 
