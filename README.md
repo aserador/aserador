@@ -1,27 +1,20 @@
-# Hi! My name is Audric 👋
+# hi!👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aserador&theme=shades-of-purple)](https://git.io/streak-stats)
 
-Welcome to my profile! I'm a student at the University of Illinois at Urbana-Champaign studying Computer Science under the Grainger College of Engineering. My main area of expertise is in full-stack application development, but as a developer, I love exploring new technologies and building cool stuff with them. I've also delved into the realms of game design, data visualizations, natural language processing, and have recently piqued an interest in the intersection of AI research and application development. 
+welcome to my profile! <br />
+my name's audric. <br />
+i love building and shipping to real people. <br />
+wanna learn more about me? -> aserador.com
 
-I'm always open to new opportunities to grow as a developer and apply my skills, so feel free to contact me through my socials below! ⬇️
-
-#### Here are a few things you should know about me:
-
-- 🔭 I’m currently working on **[IllinEats](https://dining-buddy.vercel.app/), a web app designed to improve the student dining hall experience.**
-- 🌱 I’m currently learning **AWS Services & Machine Learning**.
-- 👯 I’m open to collaborate with **other Developers**.
-- 📫 How to reach me: **Check out my socials below**
-- ⚡ Fun fact: I love singing, dancing, playing piano, and good Filipino food 🍲.
-
-## 🤝🏻 Connect with Me
+## let's chat
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/audricserador/"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linkedin_xaaedy.png" title="LinkedIn | AudricSerador" alt="LinkedIn Account" width="30"/></a>
 &nbsp; &nbsp;
 <a href="mailto:audricciel@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/8748/8748009.png" title="Email | audricciel@gmail.com" alt="Email" width="30"/></a>
 
-## 🛠 Technologies & Skills
+## tech i'm familiar with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
