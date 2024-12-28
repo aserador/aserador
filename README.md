@@ -14,8 +14,6 @@ wanna learn more about me? -> aserador.com
 &nbsp; &nbsp;
 <a href="mailto:audricciel@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/8748/8748009.png" title="Email | audricciel@gmail.com" alt="Email" width="30"/></a>
 
-## tech i'm familiar with
-
 ## the stack
 tech i'm familiar with (built something w it)
 
