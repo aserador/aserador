@@ -5,7 +5,7 @@
 welcome to my profile! <br />
 my name's audric. <br />
 i love building and shipping to real people. <br />
-wanna learn more about me? -> aserador.com
+wanna learn more about me? -> audrics.me
 
 ## let's chat
 
